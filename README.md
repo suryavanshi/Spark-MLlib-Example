@@ -1,7 +1,4 @@
-spark-template
+Spark MLlib
 ==============
 
-A easy-to-use starter template for Spark using Scala.
-
-To get started, run ```./sbt gen-idea``` for Intellij IDEA or ```./sbt "eclipse with-source=true"```. This will
-generate project files for your favorite editor.
+After cloning the project, run sbt gen-idea to make it a intelliJ project, then in module settings point to the JDK in C:/Java
